@@ -1,4 +1,4 @@
-package avaliacao.lampada;
+package Lampada;
 
 /* Representa uma lâmpada simples que pode estar ligada ou desligada
    e possui uma potência (watts) com validação. */
