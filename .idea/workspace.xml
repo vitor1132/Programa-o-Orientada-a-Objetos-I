@@ -5,7 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cea6bbd5-d677-4405-ba04-efb2e4f17a5a" name="Changes" comment="perfeito">
-      <change afterPath="$PROJECT_DIR$/src/Atividade4/Estudante.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Biblioteca/Acervo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Biblioteca/Livro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Biblioteca/Periodico.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -13,10 +15,17 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Formula1" />
+        <entry key="$PROJECT_DIR$" value="Atividade4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -55,12 +64,14 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "Atividade4",
+    "git-widget-placeholder": "Biblioteca",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "SDKs",
@@ -69,11 +80,6 @@
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
-  <component name="RecentsManager">
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="Atividade4" />
-    </key>
-  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -130,6 +136,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Formula1" />
     <MESSAGE value="perfeito" />
-    <option name="LAST_COMMIT_MESSAGE" value="perfeito" />
+    <MESSAGE value="sobrecarga calculaMedia" />
+    <option name="LAST_COMMIT_MESSAGE" value="sobrecarga calculaMedia" />
   </component>
 </project>
